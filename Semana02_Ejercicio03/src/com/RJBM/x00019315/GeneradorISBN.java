@@ -1,7 +1,7 @@
 package com.RJBM.x00019315;
 
 // Invariantes de la clase:
-// always nuevoID() >= 1
+// always nuevoISBN() >= 1
 public final class GeneradorISBN {
     // Atributo
     private static int contador = 0;
