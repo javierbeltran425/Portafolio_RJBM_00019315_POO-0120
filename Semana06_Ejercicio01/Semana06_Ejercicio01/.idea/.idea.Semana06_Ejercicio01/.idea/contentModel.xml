@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rjbel\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rjbel\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Semana06_Ejercicio01.-1035789382.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rjbel\Desktop\Universidad\POO\Portafolio_RJBM_00019315_POO-0120\Semana06_Ejercicio01\Semana06_Ejercicio01" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Semana06_Ejercicio01" t="IncludeRecursive">
+        <e p="Banco.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsolaJuegos.cs" t="Include" />
+        <e p="ExistCardException.cs" t="Include" />
+        <e p="ExistGameException.cs" t="Include" />
+        <e p="GestorArchivos.cs" t="Include" />
+        <e p="NonCards.cs" t="Include" />
+        <e p="NonExistCardException.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Semana06_Ejercicio01.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Semana06_Ejercicio01.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+C:\Users\rjbel\Desktop\Universidad\POO\Portafolio_RJBM_00019315_POO-0120\Semana06_Ejercicio01\Semana06_Ejercicio01\Semana06_Ejercicio01\bin\Debug\Semana06_Ejercicio01.exe
+C:\Users\rjbel\Desktop\Universidad\POO\Portafolio_RJBM_00019315_POO-0120\Semana06_Ejercicio01\Semana06_Ejercicio01\Semana06_Ejercicio01\bin\Debug\Semana06_Ejercicio01.pdb
+C:\Users\rjbel\Desktop\Universidad\POO\Portafolio_RJBM_00019315_POO-0120\Semana06_Ejercicio01\Semana06_Ejercicio01\Semana06_Ejercicio01\obj\Debug\Semana06_Ejercicio01.csprojAssemblyReference.cache
+C:\Users\rjbel\Desktop\Universidad\POO\Portafolio_RJBM_00019315_POO-0120\Semana06_Ejercicio01\Semana06_Ejercicio01\Semana06_Ejercicio01\obj\Debug\Semana06_Ejercicio01.exe
+C:\Users\rjbel\Desktop\Universidad\POO\Portafolio_RJBM_00019315_POO-0120\Semana06_Ejercicio01\Semana06_Ejercicio01\Semana06_Ejercicio01\obj\Debug\Semana06_Ejercicio01.pdb
