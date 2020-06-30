@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rjbel\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rjbel\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_PreSegundoParcial.-1435071070.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rjbel\Desktop\Universidad\POO\Portafolio_RJBM_00019315_POO-0120\PreTercerParcial\PreTercerParcial" t="IncludeRecursive">
+      <e p="AdHis.cs" t="Include" />
+      <e p="AdHis.Designer.cs" t="Include" />
+      <e p="AdHis.resx" t="Include" />
+      <e p="AdminView.cs" t="Include" />
+      <e p="AdminView.Designer.cs" t="Include" />
+      <e p="AdminView.resx" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ConexionDB.cs" t="Include" />
+      <e p="ConsultaInventario.cs" t="Include" />
+      <e p="ConsultaUsuario.cs" t="Include" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="Inventario.cs" t="Include" />
+      <e p="InventoryAdd.cs" t="Include" />
+      <e p="InventoryAdd.Designer.cs" t="Include" />
+      <e p="InventoryAdd.resx" t="Include" />
+      <e p="InventoryDelete.cs" t="Include" />
+      <e p="InventoryDelete.Designer.cs" t="Include" />
+      <e p="InventoryDelete.resx" t="Include" />
+      <e p="ModifyInventory.cs" t="Include" />
+      <e p="ModifyInventory.Designer.cs" t="Include" />
+      <e p="ModifyInventory.resx" t="Include" />
+      <e p="ModifyUser.cs" t="Include" />
+      <e p="ModifyUser.Designer.cs" t="Include" />
+      <e p="ModifyUser.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="PreSegundoParcial.csproj" t="IncludeRecursive" />
+      <e p="PreSegundoParcial.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Proxy.cs" t="Include" />
+      <e p="UserAdd.cs" t="Include" />
+      <e p="UserAdd.Designer.cs" t="Include" />
+      <e p="UserAdd.resx" t="Include" />
+      <e p="UserDelete.cs" t="Include" />
+      <e p="UserDelete.Designer.cs" t="Include" />
+      <e p="UserDelete.resx" t="Include" />
+      <e p="UserView.cs" t="Include" />
+      <e p="UserView.Designer.cs" t="Include" />
+      <e p="UserView.resx" t="Include" />
+      <e p="Usuario.cs" t="Include" />
+    </e>
+  </component>
+</project>

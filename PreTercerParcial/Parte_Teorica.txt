@@ -1,0 +1,10 @@
+Se escogió el patrón de diseño PROXY para este ejercici por que se acoplaba perfectamente al ejercicio
+ya que hay que hacer validaciones de contraseñas y tipos de usuario. Los veneficios que ofrece es un manejo 
+más controlado de las validaciones de los accesos de usuario y ofrece más seguridad para nuestro programa ya que 
+para acceder a las demás clases es obligatorio pasar primero por el Proxy y el Proxy es quién dará la autorización
+para poder acceder a las demás clases del codigo y a cuales. 
+
+Para lograr implementarlo lo que se hizo fue agragar una clase nueva llamada Proxy la cual se encarga 
+de hacer todas las validaciones de seguridad para permitir el acceso de los usuarios y en el Form1 se instacia 
+el Proxy, se llama y se le envian todos los parametros necesarios: usuario, la contraseña que hay registrada en la base de datos para ese usuario
+y la contraseña que el usuario está ingresando en el textBox.
